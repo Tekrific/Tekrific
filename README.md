@@ -5,7 +5,6 @@
  * 👯  I’m looking to collaborate on ML projects in general and projects using pytorch in particular.
  * 📫  How to reach me: https://www.twitch.tv/tekrific
  ---
-![Skärmavbild 2020-10-19 kl  17 02 24](https://user-images.githubusercontent.com/68393566/96469501-948c8f00-122d-11eb-803f-3919a031884e.png)
-![Skärmavbild 2020-10-19 kl  17 02 34](https://user-images.githubusercontent.com/68393566/96469594-ae2dd680-122d-11eb-9675-1d56a7bc4933.png)
-![Skärmavbild 2020-10-19 kl  17 02 50](https://user-images.githubusercontent.com/68393566/96469605-b2f28a80-122d-11eb-91b3-d4a33f346bfa.png)
-![Skärmavbild 2020-10-19 kl  17 02 57](https://user-images.githubusercontent.com/68393566/96469622-b6861180-122d-11eb-8bc3-f0af127f1bd0.png)
+![python-5 (1)](https://user-images.githubusercontent.com/68393566/96476572-aeca6b00-1235-11eb-98d7-1603f5f9104f.jpg)
+![c-2975](https://user-images.githubusercontent.com/68393566/96476581-b25df200-1235-11eb-8858-54abd8353d72.jpg)
+![cpp](https://user-images.githubusercontent.com/68393566/96476596-b722a600-1235-11eb-92f1-3368ea50d9d8.jpg)
