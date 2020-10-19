@@ -1,8 +1,8 @@
 ### Tekrific
 
  * I’m currently working on Machine Learning implementations
- * I’m currently learning Pytorch
- * I’m looking to collaborate on ML projects in general and projects using pytorch in particular.
+ * Framework: Pytorch
+ * Looking to collaborate on ML projects in general and projects using pytorch in particular.
  * Lab stream: https://www.twitch.tv/tekrific where I occasionally stream my progress or lack thereof..
  ---
 ![Skärmavbild 2020-10-19 kl  17 02 24](https://user-images.githubusercontent.com/68393566/96469501-948c8f00-122d-11eb-803f-3919a031884e.png)
