@@ -3,7 +3,7 @@
  * I’m currently working on Machine Learning / Deep Learning implementations
  * Framework: Pytorch
  * API: LibTorch C++ Api
- * Areas of interest: applied DRL/NLP, Transformers, parallelism, testing improvements
+ * Areas of interest: applied ML/RL/NLP, Transformers, parallelism, testing improvements
  * Looking to collaborate on ML projects in general and projects using pytorch in particular.
  * Lab stream: https://www.twitch.tv/tekrific where I occasionally stream my progress or lack thereof..
  ---
